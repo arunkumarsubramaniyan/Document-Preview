@@ -1,0 +1,11 @@
+.card{
+    @apply w-[450px] bg-white border p-[3.2rem] rounded
+}
+
+.inputHeight{
+    @apply h-[48px]
+}
+
+.loginBG{
+   @apply bg-gray-100
+}
